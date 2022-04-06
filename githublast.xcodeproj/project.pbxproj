@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DF60C2D627FDF8E600204D06 /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF60C2D527FDF8E600204D06 /* NewFile.swift */; };
+		DF60C2D827FDFA1500204D06 /* sunshineNewfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF60C2D727FDFA1500204D06 /* sunshineNewfile.swift */; };
 		DFB4116727FDF7600035D6EA /* githublastApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB4116627FDF7600035D6EA /* githublastApp.swift */; };
 		DFB4116927FDF7600035D6EA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB4116827FDF7600035D6EA /* ContentView.swift */; };
 		DFB4116B27FDF7620035D6EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFB4116A27FDF7620035D6EA /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		DF60C2D527FDF8E600204D06 /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
+		DF60C2D727FDFA1500204D06 /* sunshineNewfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sunshineNewfile.swift; sourceTree = "<group>"; };
 		DFB4116327FDF7600035D6EA /* githublast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = githublast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFB4116627FDF7600035D6EA /* githublastApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githublastApp.swift; sourceTree = "<group>"; };
 		DFB4116827FDF7600035D6EA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				DFB4116A27FDF7620035D6EA /* Assets.xcassets */,
 				DFB4116C27FDF7620035D6EA /* Preview Content */,
 				DF60C2D527FDF8E600204D06 /* NewFile.swift */,
+				DF60C2D727FDFA1500204D06 /* sunshineNewfile.swift */,
 			);
 			path = githublast;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				DFB4116927FDF7600035D6EA /* ContentView.swift in Sources */,
 				DFB4116727FDF7600035D6EA /* githublastApp.swift in Sources */,
 				DF60C2D627FDF8E600204D06 /* NewFile.swift in Sources */,
+				DF60C2D827FDFA1500204D06 /* sunshineNewfile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
