@@ -14,6 +14,7 @@
 		DFB4116B27FDF7620035D6EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFB4116A27FDF7620035D6EA /* Assets.xcassets */; };
 		DFB4116E27FDF7620035D6EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFB4116D27FDF7620035D6EA /* Preview Assets.xcassets */; };
 		DFB4117527FDFB310035D6EA /* movesooBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB4117427FDFB310035D6EA /* movesooBranch.swift */; };
+		DFB4117727FDFC3B0035D6EA /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB4117627FDFC3B0035D6EA /* Main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DFB4116A27FDF7620035D6EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFB4116D27FDF7620035D6EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DFB4117427FDFB310035D6EA /* movesooBranch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movesooBranch.swift; sourceTree = "<group>"; };
+		DFB4117627FDFC3B0035D6EA /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				DF60C2D527FDF8E600204D06 /* NewFile.swift */,
 				DF60C2D727FDFA1500204D06 /* sunshineNewfile.swift */,
 				DFB4117427FDFB310035D6EA /* movesooBranch.swift */,
+				DFB4117627FDFC3B0035D6EA /* Main.swift */,
 			);
 			path = githublast;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFB4117727FDFC3B0035D6EA /* Main.swift in Sources */,
 				DFB4117527FDFB310035D6EA /* movesooBranch.swift in Sources */,
 				DFB4116927FDF7600035D6EA /* ContentView.swift in Sources */,
 				DFB4116727FDF7600035D6EA /* githublastApp.swift in Sources */,
